@@ -22,7 +22,7 @@ With Magento 2 Store Locator, you can create an unlimited number of store locati
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/um-sl-p-main1.png">
 <img src="https://www.ulmod.com/media/ulmod/product_content/um-sl-p-main2.png">
-<img src="https://www.ulmod.com/media/ulmod/product_content/um-sl-p-main2.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/um-sl-p-main3.png">
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
 ### Magento 2 FREE Extensions
